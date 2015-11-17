@@ -1,0 +1,3 @@
+- übersichtlich
+- anpassbar
+- Alarmfunktion für anstehende Ereignisse
